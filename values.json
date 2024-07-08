@@ -1,16 +1,48 @@
 {
-   "values":[
-      {
-         "name":"XXXXS",
-         "code":"XXXXS"
-      },
-      {
-         "name":"XXXS",
-         "code":"XXXS"
-      },
-      {
-         "name":"XXS",
-         "code":"XXS"
-      }
-   ]
+"values": [
+            {
+              "name": "Black",
+              "code": "B",
+              "materials": [
+                {
+                  "meshes": ["2pood_belt", "2pood_loop", "2poods_3inch_belt", "2poods_3inch_loop", "2pood_stitch_webbing", "2poods_3inch_stitch_webbing"],
+                  "material": "black_rough",
+                  "useForSwatch": true
+                }
+              ]
+            },
+            {
+              "name": "White",
+              "code": "W",
+              "materials": [
+                {
+                  "meshes": ["2pood_belt", "2pood_loop", "2poods_3inch_belt", "2poods_3inch_loop", "2pood_stitch_webbing", "2poods_3inch_stitch_webbing"],
+                  "material": "white_rough",
+                  "useForSwatch": true
+                }
+              ]
+            },
+            {
+              "name": "Red",
+              "code": "N",
+              "materials": [
+                {
+                  "meshes": ["2pood_belt", "2pood_loop", "2poods_3inch_belt", "2poods_3inch_loop", "2pood_stitch_webbing", "2poods_3inch_stitch_webbing"],
+                  "material": "red_rough",
+                  "useForSwatch": true
+                }
+              ]
+            },
+            {
+              "name": "Blue",
+              "code": "G",
+              "materials": [
+                {
+                  "meshes": ["2pood_belt", "2pood_loop", "2poods_3inch_belt", "2poods_3inch_loop", "2pood_stitch_webbing", "2poods_3inch_stitch_webbing"],
+                  "material": "blue_rough",
+                  "useForSwatch": true
+                }
+              ]
+            }
+          ]
 }
