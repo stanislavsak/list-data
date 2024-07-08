@@ -1,16 +1,16 @@
 {
-  "values": [
-    {
-    "name": "NONE",
-    "code": "none"
-    },
-    {
-    "name": "BACK 1/16\"",
-    "code": "back_1-16"
-    },
-    {
-    "name": "BACK 1/8\"",
-    "code": "back_1-8"
-    }
-  ]
+   "values":[
+      {
+         "name":"XXXXS",
+         "code":"XXXXS"
+      },
+      {
+         "name":"XXXS",
+         "code":"XXXS"
+      },
+      {
+         "name":"XXS",
+         "code":"XXS"
+      }
+   ]
 }
