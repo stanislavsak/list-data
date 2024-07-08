@@ -1,14 +1,16 @@
-{"values": [
 {
-"name": "NONE",
-"code": "none"
-},
-{
-"name": "BACK 1/16\"",
-"code": "back_1-16"
-},
-{
-"name": "BACK 1/8\"",
-"code": "back_1-8"
-}
+  "values": [
+    {
+    "name": "NONE",
+    "code": "none"
+    },
+    {
+    "name": "BACK 1/16\"",
+    "code": "back_1-16"
+    },
+    {
+    "name": "BACK 1/8\"",
+    "code": "back_1-8"
+    }
+  ]
 }
